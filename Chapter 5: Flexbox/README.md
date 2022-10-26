@@ -24,4 +24,5 @@ The items are placed along a line called **main axis**, which goes from the **ma
 
 We will build the page shown below:
 
-[INSERTAR CAP CON LA PAGINA TERMINADA]
+![Figure 5.2 Finished page with a flexbox layout](/Chapter%205%3A%20Flexbox/assets/figure-5.2.png)
+
